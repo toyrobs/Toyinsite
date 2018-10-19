@@ -1,0 +1,131 @@
+#mainContent {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-large;
+	font-weight: bold;
+	background-color: #E3F0FB;
+	border-radius: 4px;
+	padding: 10px;
+	text-align: center;
+}
+.buttonStyle {
+	border-radius: 4px;
+	border: thin solid #F0E020;
+	padding: 5px;
+	background-color: #F8F094;
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+	font-weight: bold;
+	color: #663300;
+	width: 75px;
+}
+
+.buttonStyle:hover {
+	border: thin solid #FFCC00;
+	background-color: #FCF9D6;
+	color: #996633;
+	cursor: pointer;
+}
+.buttonStyle:active {
+	border: thin solid #99CC00;
+	background-color: #F5FFD2;
+	color: #669900;
+	cursor: pointer;
+}
+
+td {
+	padding: 10px;
+	word-spacing: 20px;
+	font-size: 30px;
+
+}
+
+/****/
+
+/* USER PROFILE PAGE */
+  body, html {
+    height: 100%;
+    background-repeat: no-repeat;
+    /*background-image: linear-gradient(rgb(104, 145, 162), rgb(12, 97, 33));*/
+}
+/**
+ * Profile image component
+ */
+.profile-header-container{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.profile-header-img {
+    padding: 54px;
+}
+
+.profile-header-img > img.img-circle
+{
+    width: 120px;
+    height: 120px;
+    border: 2px solid #51D2B7;
+}
+
+/* fix this*/
+.profile-header {
+    margin-top: 43px;
+}
+
+/**
+ * Ranking component
+ */
+.rank-label-container {
+    margin-top: -19px;
+    /* z-index: 1000; */
+    text-align: center;
+}
+
+.label.label-default.rank-label {
+    background-color: rgb(81, 210, 198);
+    padding: 5px 10px 5px 10px;
+    border-radius: 27px;
+}
+a{
+	color:green;
+}
+p{
+    font-size: 20px:
+      text-align: center:;
+     
+font-size:
+20px
+;
+font-weight:
+normal
+;
+height:
+12px
+
+line-height:
+3px
+;
+margin-bottom:
+5px
+;
+margin-left:
+0px
+;
+margin-right:
+0px
+;
+margin-top:
+15px:
+
+}
+h1 {
+	text-align: center;
+}
+form {
+color: red;
+}
+body {
+  background-color: violet;
+}
+  
+
+
+
